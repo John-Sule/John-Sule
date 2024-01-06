@@ -1,4 +1,4 @@
--                              #👋 Hi, I’m John Sule
+-                              **#####👋 Hi, I’m John Sule**
 
 
 - 👀 I’m interested in data analysis, visualizations, problem-solving, etc...
