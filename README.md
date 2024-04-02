@@ -14,7 +14,7 @@
 ### Background:
 As a Certified Data Scientist, I leverage my expertise in data analysis, visualization, and forecasting to derive actionable insights from diverse data sources, contributing to strategic decision-making for senior leadership. With a background in IT support roles, I've demonstrated adeptness in quick learning, robust problem-solving, and a results-oriented mindset.
 
-My goal is to optimize business processes through data-driven insights and solutions. I've created predictive models, interactive dashboards, and clear reports using SQL, Excel, ETL, and other data science tools. Additionally, I bring proficiency in software, technical, and customer support, ensuring high levels of technical assistance and client satisfaction. Eager to contribute to a dynamic and innovative team that values collaboration, creativity, and excellence.
+My goal is to optimize business processes through data-driven insights and solutions. I've created predictive models, interactive dashboards, and clear reports using Python, R, SQL, Excel, ETL, and other data science tools. Additionally, I bring proficiency in software, technical, and customer support, ensuring high levels of technical assistance and client satisfaction. Eager to contribute to a dynamic and innovative team that values collaboration, creativity, and excellence.
 
 <!---
 John-Sule/Introduction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
